@@ -41,7 +41,7 @@ def get_env_or_raise(key):
 # 应用 ID
 APP_CODE = "bkds30014-test"
 # 应用用于调用云 API 的 Secret
-SECRET_KEY = "415acca5-22e0-4bf0-8473-478900dc11ad"
+SECRET_KEY = "2672ce49-313f-4f07-998f-63ed69f30945"
 
 # SaaS运行版本，如非必要请勿修改
 RUN_VER = "open"
